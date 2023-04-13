@@ -1,1 +1,1 @@
-# Auth
+# Authentication
